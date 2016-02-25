@@ -1,7 +1,11 @@
 # smartbroadcastify
-Monitor broadcastify feed listener counts with machine-learned reference data to smartly detect anomolies.
+Monitor/be alerted of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
-Update: Though I have not yet posted the code (it's a mess), I have a proof of concept ready here: https://hmm.nyc/news
+<B>Updates</b>: 
+1) Though I have not yet posted the code, I have a proof of concept online with a technicial explanation: <a href="https://hmm.nyc/news/">hmm.nyc/news</a>
+
+2) Thomas <a href="https://github.com/BlueMustache">(github: BlueMustache)</a>, a Java coder, is teaming up with me to help implement voice recognition to the project. That will make things interesting!
+----
 
 Broadcastify is an emergency communications scanner aggregation service. When something newsworthy happens in some county, either because they heard gunfire themselves or because they read a tweet etc, people start flocking to a scanner feed. When a feed suddenly gets more listeners than it normally would, that is an early indicator of a newsworthy event occurring often well-before it makes the news, and being notified of such spikes may be useful for journalists and rubberneckers: http://www.broadcastify.com/listen/top, http://www.radioreference.com/apps/db/
 
