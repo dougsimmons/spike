@@ -2,7 +2,9 @@
 Monitor/be alerted of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
 Updates: 
-1) Though I have not yet posted the code, I have a proof of concept online with a technicial explanation: <a href="https://hmm.nyc/news">hmm.nyc/news</a>
+1) Though I have not yet posted the code, I have a proof of concept online with a technicial explanation: 
+
+<a href="https://hmm.nyc/news">hmm.nyc/news</a>
 
 2) Thomas <a href="https://github.com/BlueMustache">(github: BlueMustache)</a>, a Java coder, is teaming up with me to help implement voice recognition to the project. That will make things interesting!
 
@@ -10,4 +12,5 @@ Broadcastify is an emergency communications scanner aggregation service. When so
 
 Though there are already programs that monitor feeds for thresholds that exceed a certain number, such as bc-notify (Haskell) and Scanner Radio for Android, to cut down on false positives and negatives, it would be helpful to have something that knows how many users is normal at 1am Saturday in Chicago on a non-holiday weekend, for example, rather than a constant, static threshhold of 2K listeners at which point to notify the user.
 
-Further helpful for this would be to implement crude voice recognition to listen to feeds for mentions of key terms like mass casualities, amber alert and active shooter. Perhaps a fork. The status of this is that it's just an idea that I'm excited about, haven't even decided which programming language to use, but wanted to start a repo while I am still motivated. If anyone wants to help, please contact me. -Doug
+Further helpful for this would be to implement crude voice recognition to listen to feeds for mentions of key terms like mass casualities, amber alert and active shooter. Perhaps a fork. The status of this is that it's just an idea that I'm excited about, haven't even decided which programming language to use, but wanted to start a repo while I am still motivated. If anyone wants to help, please contact me. 
+-Doug
