@@ -22,3 +22,5 @@ Updates:
 02/24: Added a <a href="https://hmm.nyc/news/how.php">technical breakdown</a> with code snippets, will add to github. 
 
 02/25: I cleaned up the code a bit to make it faster for me to modify things without having to repeat a single step fifty times. I created a second page solely for fire departments: <a href="https://hmm.nyc/news/fire.php">hmm.nyc/news/fire.php</a>
+
+02/26: Made the global sensitivity email alert thresholds work and added an alert signup request form.
