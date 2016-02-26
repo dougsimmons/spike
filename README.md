@@ -3,9 +3,7 @@ Monitor/be alerted of anomalies in broadcastify's feed's listener counts with ma
 
 Updates: 
 
-02/16: Though I have not yet posted the code, I have a proof of concept online: 
-
-<a href="https://hmm.nyc/news">hmm.nyc/news</a>
+02/16: Though I have not yet posted the code, I have a proof of concept online: <a href="https://hmm.nyc/news">hmm.nyc/news</a>
 
 02/21: Thomas <a href="https://github.com/BlueMustache">(github: BlueMustache)</a>, a Java coder, is teaming up with me to help implement voice recognition to the project. That will definitely make things interesting! Among things he is currently doing is experimenting with parsing <a href="http://wiki.radioreference.com/index.php/Expanded_APCO_10_Codes">ten codes</a>. I don't know yet how much server muscle will be needed to run recognition on a few dozen feeds, hope it doesn't break the bank.
 
