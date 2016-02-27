@@ -13,7 +13,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 <strong>Updates:</strong> 
 
-<pre>02/16</pre>: Though I have not yet posted the code, I have a proof of concept running: <a href="https://hmm.nyc/demo/">hmm.nyc/demo</a>
+02/16: Though I have not yet posted the code, I have a proof of concept running: <a href="https://hmm.nyc/demo/">hmm.nyc/demo</a>
 
 02/21: Java coder Thomas (github: <a href="https://github.com/BlueMustache">BlueMustache</a>) has teamed up with me to help implement voice recognition to the project. Among things he is currently doing is experimenting with parsing <a href="http://wiki.radioreference.com/index.php/Expanded_APCO_10_Codes">ten codes</a> and using public APIs in case the math is very server-intensive or other services (like Google's) offer accurate transcription and allow multiple feeds. Several feeds of the higher crime rates would be a good start. If it is accurate enough to parse addresses, perhaps we can create some sort of a map. Lots of ways to swing it if progress is made.
 
