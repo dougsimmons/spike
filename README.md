@@ -13,13 +13,13 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 <strong>Updates:</strong> 
 
-02/16: Though I have not yet posted the code, I have a proof of concept running: <a href="https://hmm.nyc/demo/">hmm.nyc/demo</a>
+02/16: Though I have not yet posted the code, I have a proof of concept running: <a href="http://spike.fyi/">spike.fyi</a>
 
 02/21: Java coder Thomas (github: <a href="https://github.com/BlueMustache">BlueMustache</a>) has teamed up with me to help implement voice recognition to the project. Among things he is currently doing is experimenting with parsing <a href="http://wiki.radioreference.com/index.php/Expanded_APCO_10_Codes">ten codes</a> and using public APIs in case the math is very server-intensive or other services (like Google's) offer accurate transcription and allow multiple feeds. Several feeds of the higher crime rates would be a good start. If it is accurate enough to parse addresses, perhaps we can create some sort of a map. Lots of ways to swing it if progress is made.
 
-02/24: Added a <a href="https://hmm.nyc/demo/x.php">technical breakdown</a> with code snippets, will add to github. 
+02/24: Added a <a href="http://spike.fyi/x.php">technical breakdown</a> with code snippets, will add to github. 
 
-02/25: I cleaned up the code a bit to make it faster for me to modify things without having to repeat a single step fifty times. I created a second page solely for fire departments: <a href="https://hmm.nyc/demo/fire.php">hmm.nyc/news/fire.php</a>
+02/25: I cleaned up the code a bit to make it faster for me to modify things without having to repeat a single step fifty times. I created a second page solely for fire departments: <a href="https://spike.fyi/fire.php">spike.fyi/fire.php</a>
 
 02/26: Made the global sensitivity email alert thresholds work and added an alert signup request form. 
 
