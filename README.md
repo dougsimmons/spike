@@ -1,7 +1,7 @@
 # spike
 Monitor and get alerts of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
-Demo online: <strong><a href="https://spike.hmm.nyc/">spike.hmm.nyc</a></strong>
+Demo online: <strong><a href="http://spike.fyi/">spike.fyi</a></strong>
 
 Broadcastify is an emergency communications scanner aggregation service. When something newsworthy happens in some county, either because they heard gunfire themselves or because they read a tweet etc, people start flocking to a scanner feed. When a feed suddenly gets more listeners than it normally would, that is an early indicator of a newsworthy event occurring often well-before it makes the news, and being notified of such spikes may be useful for journalists and rubberneckers: http://www.broadcastify.com/listen/top, http://www.radioreference.com/apps/db/
 
@@ -24,3 +24,5 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 02/26: Made the global sensitivity email alert thresholds work and added an alert signup request form. 
 
 02/27: Made and submitted sitemap, robots.txt, changed url to https://spike.hmm.nyc with <a href="https://www.ssllabs.com/ssltest/analyze.html?d=spike.hmm.nyc&hideResults=on">strong ssl</a>, renamed repo from smartbroadcastify to spike, rebranded the site accordingly.
+
+02/28: Changed host to <a href="http://spike.fyi">spike.fyi</a>, no ssl yet. Working on pushbullet support, looks promising.
