@@ -25,4 +25,6 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 02/27: Made and submitted sitemap, robots.txt, changed url to https://spike.hmm.nyc with <a href="https://www.ssllabs.com/ssltest/analyze.html?d=spike.hmm.nyc&hideResults=on">strong ssl</a>, renamed repo from smartbroadcastify to spike, rebranded the site accordingly.
 
-02/28: Changed host to <a href="http://spike.fyi">spike.fyi</a>, no ssl yet. Working on pushbullet support, looks promising.
+02/28: Changed host to <a href="http://spike.fyi">spike.fyi</a>, no ssl yet. Working on pushbullet support, looks promising. 
+
+03/02: Added SSL, implemented Pushbullet (available to visitors https://www.pushbullet.com/channel-popup?tag=spike). Set the pb alerts to take themselves out of commission for a certain duration so as not to spam users with too many alerts. Searching for the best alert sensitivity threshold and alert snooze durations to make the site perform well without irritating users. 
