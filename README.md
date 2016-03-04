@@ -29,4 +29,6 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/02: Added SSL, implemented Pushbullet (available to visitors https://www.pushbullet.com/channel-popup?tag=spike). Set the pb alerts to take themselves out of commission for a certain duration so as not to spam users with too many alerts. Searching for the best alert sensitivity threshold and alert snooze durations to make the site perform well without irritating users. 
 
-03/03: Added weather! Violent crime and protests correlate with weather. Python was helpful (namely the csv library).
+03/03: Added weather! Violent crime and protests correlate with weather. Python was helpful (namely the csv lib). Using api.worldweatheronline.com, free access allows 250 reqs/day, presently just for police feeds (I have about 50 and 16 fire feeds). Weather updates by cron at hours 7, 10, 13, 20 EST which sounded about right.
+
+03/04: Added weather info for fire feeds, converting weather description to lowercase (looks nicer).
