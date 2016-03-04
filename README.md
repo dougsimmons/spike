@@ -34,8 +34,13 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 03/04: Added weather info for fire feeds, converting weather description to lowercase (looks nicer).
 
 <strong>To do:</strong> 
+
  • Push code/code samples to github
+ 
  • Try presenting the data in the form of a map overlay
+ 
  • Get some traffic -- meta keywords, markup etc 
+ 
  • Implement speech recognition
- • Clean up code to run more efficiently and to be more manageable (it's a mess). 
+ 
+ • Clean up code to run more efficiently and to be more manageable (it's a mess).
