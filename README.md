@@ -1,7 +1,7 @@
 # spike
 Monitor and get alerts of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
-Demo online: <strong><a href="http://spike.fyi/">spike.fyi</a></strong>
+Functional demo online: <strong><a href="http://spike.fyi/">spike.fyi</a></strong>
 
 Broadcastify is an emergency communications scanner aggregation service. When something newsworthy happens in some county, either because they heard gunfire themselves or because they read a tweet etc, people start flocking to a scanner feed. When a feed suddenly gets more listeners than it normally would, that is an early indicator of a newsworthy event occurring often well-before it makes the news, and being notified of such spikes may be useful for journalists and rubberneckers: http://www.broadcastify.com/listen/top, http://www.radioreference.com/apps/db/
 
@@ -11,7 +11,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 -Doug
 
 
-<strong>Updates:</strong> 
+<strong>Changelog:</strong> 
 
 02/16: Though I have not yet posted the code, I have a proof of concept running: <a href="http://spike.fyi/">spike.fyi</a>
 
@@ -32,3 +32,10 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 03/03: Added weather! Violent crime and protests correlate with weather. Python was helpful (namely the csv lib). Using api.worldweatheronline.com, free access allows 250 reqs/day, presently just for police feeds (I have about 50 and 16 fire feeds). Weather updates by cron at hours 7, 10, 13, 20 EST which sounded about right.
 
 03/04: Added weather info for fire feeds, converting weather description to lowercase (looks nicer).
+
+<strong>To do:</strong> 
+ • Push code/code samples to github
+ • Try presenting the data in the form of a map overlay
+ • Get some traffic -- meta keywords, markup etc 
+ • Implement speech recognition
+ • Clean up code to run more efficiently and to be more manageable (it's a mess). 
