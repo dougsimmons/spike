@@ -35,6 +35,8 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/04: Added weather info for fire feeds, converting weather description to lowercase (looks nicer).
 
+03/05: Improved weather updating, quality control on some broken scripts, made a credits list on the about page, assembling code examples to push to github.
+
 <strong>To do:</strong> 
 
  • Push code/code samples to github
