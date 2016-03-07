@@ -38,8 +38,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/05: Improved weather updating, quality control on some broken scripts, made a credits list on the about page, assembling code examples to push to github.
 
-03/07: Giving credit where it is due <a href="https://spike.fyi/credits.php">here</a> and below on the readme.
-
+03/07: Giving credit where it is due <a href="https://spike.fyi/credits.php">here</a> and below on the readme. Added code samples to github repo: <a href="https://github.com/dougsimmons/spike/tree/master/codesamples">github.com/dougsimmons/spike/tree/master/codesamples</a>
 
 <strong>To do:</strong> 
 
