@@ -13,6 +13,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 -Doug
 
 
+
 <strong>Changelog:</strong> 
 
 02/16: Though I have not yet posted the code, I have a proof of concept running: <a href="http://spike.fyi/">spike.fyi</a>
@@ -39,6 +40,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/07: Giving credit where it is due <a href="https://spike.fyi/credits.php">here</a> and below on the readme.
 
+
 <strong>To do:</strong> 
 
  • Push code/code samples to github
@@ -50,6 +52,7 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
  • Implement speech recognition
  
  • Clean up code to run more efficiently and to be more manageable (it's a mess).
+
 
 <strong>Credits:</strong>
  
@@ -76,6 +79,8 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 Weather API provider, <a href="http://www.worldweatheronline.com/api/docs/local-city-town-weather-api.aspx">worldweatheronline.com/api/</a>
  
  • Author of php for editing the thresholds found on <a href="http://stackoverflow.com/a/8227049/5981605">SO</a> by <a hre="http://stackoverflow.com/users/367456/hakre">hakre</a>
+ 
+ • Author of PHP contact <a href="/email.php">form/script</a>, <a href="https://github.com/ChrisWojcik/ajax-contact-form/blob/master/index.php">ajax-contact-form</a> by <a href="https://github.com/ChrisWojcik">Chris Wojcik</a><BR><BR>
  
  • Gents who helped me escape many jams, those in #python, #php, #bash, #debian on <a href="https://webchat.freenode.net/">irc.freenode.net</a>
 
