@@ -40,47 +40,24 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/07: Giving credit where it is due <a href="https://spike.fyi/credits.php">here</a> and below on the readme. Added code samples to github repo: <a href="https://github.com/dougsimmons/spike/tree/master/codesamples">github.com/dougsimmons/spike/tree/master/codesamples</a>
 
+03/21: Wrote <a href="https://spike.fyi/how.php">slice.sh</a>, a little script to calculate the mean expected value filter by the weekday in addition to the current hour which is clearly improving general accuracy. Other changes mostly cosmetic.
+
 <strong>To do:</strong> 
 
- • Push code/code samples to github
+ • Push latest code/code samples to github
  
  • Try presenting the data in the form of a map overlay
  
- • Get some traffic -- meta keywords, markup etc 
+ • Implement speech recognition -- currently experimenting with IBM Watson
  
- • Implement speech recognition
+ • Clean up code to run more efficiently and to be more manageable
  
- • Clean up code to run more efficiently and to be more manageable (it's a mess).
+ • Make mobile-friendly (rwd)
+ 
+ • Add structured markup chunk for Google serps (yawn)
+ 
+ • Server sludges up and reboots itself, sometimes firing out duplicate pushbullet alerts, fix that
 
 
-<strong>Credits:</strong>
+<strong>Credits:</strong> https://spike.fyi/credits.php
  
- • Voice recognition partner and Java whiz Thomas (github: <a href="https://github.com/BlueMustache">BlueMustache</a>)
- 
- • Creator, CEO of Broadcastify.com on which this project is 100% reliant, Lindsay C. Blaton (<a href="http://www.linkedin.com/profile/view?id=15230824">linkedin</a>)
- 
- • Lead Administration Manager of Broadcastify.com, Gordan Edwards, <a href="http://www.broadcastify.com/about/">broadcastify.com/about</a>
- 
- • Author of tablesorter js, stackoverflow user <a href="http://stackoverflow.com/users/1984039/gurvinder372">gurvinder372</a> from Bengaluru, India 
- 
- • Author of <a href="https://github.com/nferraz/st">st</a> (simple statistics from cmd line) github user nferraz
- 
- • Author of <a href="https://github.com/gleicon/py_descriptive_statistics">python tool</a> to calculate stddev, mean, variance and other things, github user gleicon
- 
- • Author of main css I use, <a href="http://meyerweb.com/eric/tools/css/reset/">Reset</a>, Eric A. Meyer (<a href="https://github.com/meyerweb?tab=repositories">github</a>)
- 
- • Author of <a href="https://github.com/google/code-prettify">prettify.js</a>, the <a href="https://developers.google.com/fonts/">Karla font</a> and <a href="https://github.com/pagespeed/ngx_pagespeed">ngx_pagespeed</a>, Google of course
- 
- • Author of <a href="http://atelierbram.github.io/syntax-highlighting/atelier-schemes/seaside/">Atelier Seaside Light</a>, Bram de Haan
- 
- • Creator of <a href="https://docs.pushbullet.com/#api-quick-start">Pushbullet</a> (I use the API for <a href="https://www.pushbullet.com/channel-popup?tag=spike">alerts</a>), Ryan Oldenburg
-
-Weather API provider, <a href="http://www.worldweatheronline.com/api/docs/local-city-town-weather-api.aspx">worldweatheronline.com/api/</a>
- 
- • Author of php for editing the thresholds found on <a href="http://stackoverflow.com/a/8227049/5981605">SO</a> by <a hre="http://stackoverflow.com/users/367456/hakre">hakre</a>
- 
- • Author of PHP contact <a href="/email.php">form/script</a>, <a href="https://github.com/ChrisWojcik/ajax-contact-form/blob/master/index.php">ajax-contact-form</a> by <a href="https://github.com/ChrisWojcik">Chris Wojcik</a><BR><BR>
- 
- • Gents who helped me escape many jams, those in #python, #php, #bash, #debian on <a href="https://webchat.freenode.net/">irc.freenode.net</a>
-
-If I left anyone out, sorry, please contact me.
