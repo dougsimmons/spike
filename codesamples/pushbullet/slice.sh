@@ -4,7 +4,6 @@
 # going back a month to subsuequently calculate the mean.
 # Explained here: https://spike.fyi/how.php
 # EG ./slice.sh chicago.log
-
 log="$1"
 hr07=$(date --date="7 days ago" +"%m"-"%d")"|$(date +"%H")"
 hr14=$(date --date="14 days ago" +"%m"-"%d")"|$(date +"%H")"
