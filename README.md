@@ -42,8 +42,10 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 
 03/21: Wrote <a href="https://spike.fyi/how.php">slice.sh</a>, a little script to calculate the mean expected value filter by the weekday in addition to the current hour which is clearly improving general accuracy. Other changes mostly cosmetic.
 
+03/22: Set javascript not to show rows of feeds containing a negative delta value as they are not of interest and the list of cities is pretty large otherwise.
+
 <strong>To do:</strong> 
- • Get CSS not to list table rows with negative delta column values
+ • Get CSS not to list table rows with negative delta column values   (done)
 
  • Push latest code/code samples to github
  
