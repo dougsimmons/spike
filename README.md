@@ -1,7 +1,7 @@
 # spike
 Monitor and get alerts of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
-Functional demo online: <strong><a href="http://spike.fyi/">spike.fyi</a></strong>
+Functional demo online: <strong><a href="http://spike.rip/">spike.rip</a></strong>
 
 Anomaly alert feed: <a href="https://www.pushbullet.com/channel-popup?tag=spike" title="pushbullet #spike">pushbullet.com/channel-popup?tag=spike</a>
 
@@ -43,6 +43,8 @@ Further helpful for this would be to implement crude voice recognition (see 02/2
 03/21: Wrote <a href="https://spike.fyi/how.php">slice.sh</a>, a little script to calculate the mean expected value filter by the weekday in addition to the current hour which is clearly improving general accuracy. Other changes mostly cosmetic.
 
 03/22: Set javascript not to show rows of feeds containing a negative delta value as they are not of interest and the list of cities is pretty large otherwise.
+
+03/31: Added DC feed, switching to a different domain, https://spike.rip, resolved sludge issues and stray processes, fixed runaway pushbullet alerting, .. 
 
 <strong>To do:</strong> 
  • Get CSS not to list table rows with negative delta column values   (done)
