@@ -1,7 +1,7 @@
 # spike
 Monitor and get alerts of anomalies in broadcastify's feed's listener counts with machine-learned reference data.
 
-Functional demo online: <strong><a href="http://spike.rip/">spike.rip</a></strong>
+<s>Functional demo online: <strong><a href="http://spike.rip/">spike.rip</a></strong></s> Project offline for revamp. 
 
 Anomaly alert feed: <a href="https://www.pushbullet.com/channel-popup?tag=spike" title="pushbullet #spike">pushbullet.com/channel-popup?tag=spike</a>
 
